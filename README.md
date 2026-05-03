@@ -1,4 +1,4 @@
 # odin-recipes
+This is a website about recipes. A list of recipes of some of my favorite meals.
 
-Here is a website that showcases the basic HTML elements that make up a website.
-
+It also showcases HTML elements that make up a website.
